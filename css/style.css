@@ -1,0 +1,26 @@
+/* .width{
+
+    width: 806;
+height: 66;
+
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+} */
+
+#s-title{
+    height: 150px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
